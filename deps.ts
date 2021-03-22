@@ -9,7 +9,7 @@ export {
   Connection as MySQLConnection,
 } from "https://deno.land/x/mysql/mod.ts";
 
-export { Client as PostgresClient } from "https://deno.land/x/postgres@v0.7.1/mod.ts";
+export { Client as PostgresClient } from "https://deno.land/x/postgres@v0.5.0/mod.ts";
 
 export { DB as SQLiteClient } from "https://deno.land/x/sqlite@v2.3.1/mod.ts";
 
